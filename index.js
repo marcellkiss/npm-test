@@ -1,3 +1,3 @@
-import 'ar.js';
+import * as THREEx from 'ar.js';
 
-console.log('asd', AR);
+console.log(THREEx);

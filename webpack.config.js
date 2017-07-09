@@ -13,5 +13,8 @@ module.exports = {
   module: {
     loaders: [
     ]
+  },
+  node: {
+    fs: 'empty'
   }
 };
